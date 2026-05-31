@@ -1,7 +1,7 @@
 # TNS（Tsinho Nav System）青和简约单页导航系统带后台
 
 ## 系统介绍
-TNS（Tsinho Nav System）是一个简约风格的单页导航系统，采用青色系设计。添加了系统后台管理界面，所有数据管理通过MySQL数据库完成，使用PHP+MySQL编写。
+TNS（Tsinho Nav System）是一个简约风格的单页导航系统，采用青色系设计。在原作品的基础上添加了系统后台管理界面，所有数据管理通过MySQL数据库完成，使用PHP+MySQL编写。
 
 ## 数据库结构
 - `category` 表：存储分类信息
@@ -12,9 +12,8 @@ TNS（Tsinho Nav System）是一个简约风格的单页导航系统，采用青
 2. 在 `index.php` 页面修改数据库配置信息
 3. `bg.jpg` 首页背景横幅可以自行替换修改
 
-## 使用条款
-- 允许二次修改
-- 二改需注明原作者
+## 原作者
+-  tsinho/tns
 - 禁止商业倒卖
 
 ## 开源许可证
