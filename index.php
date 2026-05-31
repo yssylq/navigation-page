@@ -1,12 +1,4 @@
 <?php
-/*
- * 青和简约单页导航
- * 作者：青和
- * QQ：1722791510
- * 邮箱：admin@7h.fit
- * love msq
- */
-
 // 数据库配置
 $servername = "localhost";
 $username = "nav";
