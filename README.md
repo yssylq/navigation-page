@@ -13,7 +13,7 @@ TNS（Tsinho Nav System）是一个简约风格的单页导航系统，采用青
 3. `bg.jpg` 首页背景横幅可以自行替换修改
 
 ## 原作者
--  tsinho/tns
+- tsinho/tns
 - 禁止商业倒卖
 
 ## 开源许可证
