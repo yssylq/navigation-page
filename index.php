@@ -4,7 +4,7 @@ $servername = "localhost";
 $username = "nav";
 $password = "";
 $dbname = "nav";
-//信息配置
+//标题配置
 $xx="个人测试";
 // 处理搜索
 $searchData = [];
